@@ -16,27 +16,19 @@ A partir das planilhas originais, construí visualizações em **Python (pandas 
 ## 📈 Resultados
 
 ### 🔹 Ranking dos Alunos
-Visualização do desempenho geral, destacando os alunos com maiores e menores dificuldades:
-
-![Ranking dos Alunos](<img width="898" height="707" alt="image" src="https://github.com/user-attachments/assets/4972338e-f0b4-4707-8d2a-10bb399ab7d0" />
-)
+Visualização do desempenho geral, destacando os alunos com maiores e menores dificuldades.
 
 ---
 
 ### 🔹 Desempenho Individual
-Exemplo de gráfico individual por aluno, mostrando **quantos acertos obteve em cada habilidade**:
-
-![Desempenho Individual](<img width="837" height="572" alt="image" src="https://github.com/user-attachments/assets/c8291c57-4c35-43a4-b41e-1b444d47992d" />
-)
+Gráfico de barras com linhas sobrepostas mostrando **quantos acertos cada aluno obteve em cada habilidade**:
 
 ---
 
 ### 🔹 Ranking das Habilidades
-Habilidades com maiores e menores índices de acerto:
+Habilidades com maiores e menores índices de acerto
 
-![Ranking das Habilidades](<img width="1823" height="707" alt="image" src="https://github.com/user-attachments/assets/e05134e5-af71-4f8c-995b-49d9abe7d768" />
-)
-
+---
 
 ## 🛠️ Tecnologias utilizadas
 - Python 🐍  
