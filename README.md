@@ -38,4 +38,4 @@ Habilidades com maiores e menores índices de acerto
 ---
 
 ## Conecte-se comigo:
-![Linkedin](https://www.linkedin.com/in/adhalyaintchala/)
+[Linkedin](https://www.linkedin.com/in/adhalyaintchala/)
